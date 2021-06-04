@@ -1,0 +1,9 @@
+1) Math functions
+
+ https://www.w3schools.com/js/js_math.asp
+
+2) SCOPING REFERENCE
+
+https://www.w3schools.com/js/js_scope.asp
+
+3)
